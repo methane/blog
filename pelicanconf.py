@@ -4,6 +4,8 @@
 AUTHOR = u"methane"
 SITENAME = u"methane の日記"
 SITEURL = 'http://methane.github.com'
+THEME = 'Just-Read'
+SUMMARY_MAX_LENGTH = None
 
 TIMEZONE = 'Asia/Tokyo'
 
@@ -19,4 +21,4 @@ LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 4
