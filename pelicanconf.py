@@ -3,9 +3,9 @@
 
 AUTHOR = u"methane"
 SITENAME = u"methane の日記"
-SITEURL = ''
+SITEURL = 'http://methane.github.com'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Asia/Tokyo'
 
 DEFAULT_LANG = 'ja'
 
